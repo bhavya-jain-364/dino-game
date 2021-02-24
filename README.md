@@ -1,3 +1,3 @@
 # dino-game
-Space bar to jump
+Space bar to jump.
 'R' to restart
