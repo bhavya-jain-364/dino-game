@@ -1,2 +1,3 @@
-# x-and-o
-Simple tic tac toe game.
+# dino-game
+Space bar to jump
+'R' to restart
