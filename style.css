@@ -1,7 +1,10 @@
 html, body {
   margin: 10;
   padding: 0;
+  color:black
+  
 }
 canvas {
   display: block;
+  
 }
